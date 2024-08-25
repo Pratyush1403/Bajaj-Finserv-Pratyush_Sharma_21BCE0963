@@ -21,9 +21,9 @@ app.post('/bfhl', (req, res) => {
 
   res.json({
     is_success: true,
-    user_id: 'Divyam Sharma',
-    email: 'divyam.bindu85@gmail.com',
-    roll_number: '21BCE0149',
+    user_id: 'Pratyush Sharma',
+    email: 'pratyushsharma1404@gmail.com',
+    roll_number: '21BCE0963',
     numbers,
     alphabets,
     highest_lowercase_alphabet: highestLowercaseAlphabet
